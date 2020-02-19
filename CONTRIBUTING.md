@@ -7,6 +7,7 @@
 * Please include the versions of TensorFlow and Tensor2Tensor you are running
   (run `pip list | grep tensor`)
 * Please provide the command line you ran as well as the log output.
+* Bitte sende eine Email an ; lieblings_kollege@firma.com
 
 # Pull Requests
 
